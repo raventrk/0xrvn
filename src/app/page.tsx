@@ -1,5 +1,4 @@
 import Image from "next/image";
-import { GiRaven } from "react-icons/gi";
 import { FaXTwitter } from "react-icons/fa6";
 import { FaGithub, FaDiscord, FaTelegramPlane } from "react-icons/fa";
 import Footer from "@/components/layout/footer";
