@@ -30,10 +30,10 @@ const Page = () => {
                   </p>
                   <div className="flex gap-4 mt-5 items-center sm:flex-row">
                     <a className="text-3xl" href="https://github.com/raventrk" target="_blank">
-                      <FaDiscord />
+                      <FaGithub />
                     </a>
                     <a className="text-3xl" href="https://discord.com/channels/@me/1289632256545001574" target="_blank">
-                      <FaGithub />
+                      <FaDiscord />
                     </a>
                     <a className="text-3xl" href="https://t.me/raventrk" target="_blank">
                       <FaTelegramPlane />
